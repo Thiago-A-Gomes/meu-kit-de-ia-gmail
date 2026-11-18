@@ -45,7 +45,7 @@ Use a data-limite informada e não mexa em mensagens mais recentes. Antes de mov
 ```text
 Ao terminar a revisão do Gmail, gere um relatório em um único PDF e envie-o por e-mail para mim. Registre a data da execução, o período analisado, as quantidades movidas por categoria, os itens preservados, as exceções e limitações encontradas.
 
-Antes de mover mensagens, registre os metadados necessários para conferir o resultado (data, remetente, assunto e motivo), sem copiar corpos, anexos, códigos de autenticação, valores ou comprovantes. No relatório, apresente um resumo claro e proteja dados financeiros. Não envie o relatório a grupos ou terceiros sem integração disponível e autorização confirmada.
+Antes de mover mensagens, registre os metadados necessários para conferir o resultado (data, remetente, assunto e motivo), sem copiar corpos, anexos, códigos de autenticação, valores ou comprovantes. No relatório, apresente um resumo claro e proteja dados financeiros. 
 ```
 
 ### Minha Delegação
@@ -79,7 +79,6 @@ Nenhuma mensagem com estrela foi movida. A busca por spam antigo não encontrou 
 
 Um relatório em PDF foi enviado por e-mail para mim. Nesta execução, a ferramenta não permitiu recuperar todos os metadados individuais depois da movimentação; por isso, o PDF registra as contagens e a limitação, mas não contém uma lista completa de remetentes e assuntos. A instrução foi ajustada para que as próximas rotinas registrem data, remetente, assunto e motivo **antes** de mover cada mensagem.
 
-O envio pelo WhatsApp não foi realizado porque não havia integração disponível com o grupo. Assim, o relatório desta execução foi enviado somente por e-mail.
 
 > As capturas originais da caixa de entrada não foram publicadas para proteger mensagens pessoais e financeiras. Este registro apresenta apenas critérios e totais; o PDF foi enviado de forma privada.
 
